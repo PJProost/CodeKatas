@@ -16,6 +16,8 @@ namespace CodeKatas
 
             //ShowBytes();
 
+            if (args.Count() > 0) Console.WriteLine($"The first string is a palindrome: {Palindrome.IsPalindrome(args[0])}");
+
             Console.WriteLine("Enter key to exit");
             Console.ReadLine();
         }

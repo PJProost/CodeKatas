@@ -55,6 +55,7 @@
     <Compile Include="HashTests.cs" />
     <Compile Include="ImmutableStackTests.cs" />
     <Compile Include="BloomFilterTests.cs" />
+    <Compile Include="PalindromeTests.cs" />
     <Compile Include="RandomWordTests.cs" />
     <Compile Include="StringCompressorTests.cs" />
   </ItemGroup>
